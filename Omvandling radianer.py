@@ -16,5 +16,4 @@ def main():
     grader_avrundade = round(grader_input, decimaler)
     print(f"{radianer_input} radianer är {grader_avrundade} grader (avrundat till {decimaler} decimaler)")
 
-if __name__ == "__main__":
-    main()
+if __name__ == "__main__":main()  
