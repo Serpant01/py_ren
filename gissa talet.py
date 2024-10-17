@@ -16,3 +16,4 @@ while gissningar < max_gissningar:
         break
 if gissning != hemligt_tal:
     print(f"Tyvärr, du har gissat fel 7 gånger. Det rätta talet var {hemligt_tal}.")
+    

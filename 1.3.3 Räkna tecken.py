@@ -1,2 +1,3 @@
-namn = (f"Jag heter silas och jag programerar")
-print(namn.count)
+input_string = "Hej jag heter silas och jag programmerar"
+length_of_string = len(input_string) 
+length_of_string
